@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="PROJETO_RPJ" id="B626A2DB-9408-8E5F-25CD-7AB5EB71C24E" version="3.5">
+<createdBy>guico</createdBy>
+<createdTime>2022-09-01 01:21:22 UTC</createdTime>
+<ownerDesignName>PROJETO_RPJ</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>B626A2DB-9408-8E5F-25CD-7AB5EB71C24E</designId>
+</OSDM_Design>
